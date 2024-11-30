@@ -1,3 +1,7 @@
+#  console_quiet/__init__.py
+#
+#  Copyright 2024 liyang <liyang@veronica>
+#
 import os
 
 class ConsoleQuiet(object):
@@ -31,4 +35,4 @@ class ConsoleQuiet(object):
 			os.close(fd)
 
 
-
+#  end console_quiet/__init__.py
