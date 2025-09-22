@@ -22,7 +22,7 @@ Provides a context manager for doing a "deep suppression" of stdout and stderr.
 """
 import os
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 
 class ConsoleQuiet(object):
